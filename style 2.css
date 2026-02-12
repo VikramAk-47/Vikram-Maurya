@@ -1,0 +1,15 @@
+
+body{
+    h1{text-align: center;}
+    font-family: Arieal, Sars-serif;
+    margin:20px;
+}
+.block-menu a {
+    display:blocks;
+    background-color:green;
+    color: aliceblue;
+    padding : 10px;
+    margin : 5px;
+
+
+}
