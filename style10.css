@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    width: 100%;
+    background: #111;
+    color: white;
+    padding: 15px 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+.right-menu a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.welcome {
+    margin: 25px;
+}
+
+.welcome h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.welcome p {
+    margin-top: 5px;
+    font-size: 14px;
+}
