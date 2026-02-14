@@ -1,0 +1,6 @@
+.inline-block-menu a {
+display:inline-block;
+background-color: aqua;
+color: yellow;
+padding: 10px 15px;width: 120px;
+}
